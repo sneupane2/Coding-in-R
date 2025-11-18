@@ -26,7 +26,7 @@ discussion-dates:
   topic-06: 'MON Feb 19'
 
 final-project:
-  due-date: 'WED Feb 21'
+  due-date: 'WED Feb 28'
 
 ---
 
