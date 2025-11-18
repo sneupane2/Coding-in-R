@@ -12,18 +12,17 @@ info:
  course_number: Econ 8730 / PMAP 8541 / CRJU 8900
  course_level: Graduate
  course_website: "https://gastate.view.usg.edu/d2l/home/2989895"
- course_start_end_dates: January 8 - February 24, 2024
+ course_start_end_dates: January 12 - February 28, 2026
  course_prerequisites:  
  class_meets_when:  Online Asynchronously
  class_meets_where: Online Asynchronously
 
 instructor:
--  name: Lorenzo Almada
-   title: Clinical Associate Professor
-   email: lalmada1@gsu.edu
-   office_location: 55 Park Place Room 682
-   website: "https://aysps.gsu.edu/profile/lorenzo-almada/"
-   office_hours_time: Fridays 11:00 - Noon or by Appointment (email me!)  
+-  name: Suresh Nath Neupane, Ph.D.
+   email: sneupane2@gsu.edu
+   office_location: 55 Park Place Room 473
+   website: "https://aysps.gsu.edu/profile/suresh-n-neupane/"
+   office_hours_time: Tuesdays 11:30 - 12:30p or by Appointment (email me!)  
    office_hours_location:  
 
 
