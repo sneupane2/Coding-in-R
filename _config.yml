@@ -11,14 +11,14 @@
 
 
 github_info:
-    username:       lalmada1   # GitHub account name
+    username:       sneupane2   # GitHub account name
     website-repo:   Coding-in-R
     course-repo:    Coding-in-R
  
 description:        Coding in R for Policy Analytics 
 
-course_url:         "https://lalmada1.github.io/Coding-in-R"
-title:              lalmada1   # GitHub account name
+course_url:         "https://sneupane2.github.io/Coding-in-R"
+title:              sneupane2   # GitHub account name
 
 brand:
     image:          # e.g. logo.png, upload logo image file to /assets/img/ folder
@@ -38,8 +38,8 @@ program-website:
 ###
 
 author:
-    name:       Lorenzo Almada 
-    github:     lalmada1   # Github username for avatar
+    name:       Suresh Nath Neupane 
+    github:     sneupane2   # Github username for avatar
 
 
 
