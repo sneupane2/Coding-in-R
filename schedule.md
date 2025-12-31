@@ -2,7 +2,7 @@
 layout: schedule
 title: Schedule
 
-base: 'https://github.com/lalmada1/Coding-in-R/'
+base: 'https://github.com/sneupane2/Coding-in-R/'
 
 canvas:
   assignment_url: 'https://gastate.view.usg.edu/d2l/lms/dropbox/user/folders_list.d2l?ou=3527355'
