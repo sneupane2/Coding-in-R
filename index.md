@@ -243,7 +243,7 @@ This course spans a seven-week schedule. A schedule for each week of the term is
 
 Please note: the course instructor may from time to time adjust assigned readings or adjust the due dates for assignments. The basic course content approach and learning objectives will not change, but slight modifications are possible if circumstances warrant an adjustment.
 
-Visit the [**Course Schedule**](https://lalmada1.github.io/Coding-in-R/schedule).
+Visit the [**Course Schedule**](https://sneupane2.github.io/Coding-in-R/schedule/).
 
 <br>
 <br>
