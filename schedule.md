@@ -9,24 +9,24 @@ canvas:
   yellowdig_url: 'https://gastate.view.usg.edu/d2l/le/3527355/discussions/List'
 
 lab-due-dates:
-  lab-01: 'WED Jan 18'
-  lab-02: 'WED Jan 25'
-  lab-03: 'WED Feb 1'
-  lab-04: 'WED Feb 8'
-  lab-05: 'WED Feb 15'
+  lab-01: 'SUN Jan 18'
+  lab-02: 'SUN Jan 25'
+  lab-03: 'SUN Feb 1'
+  lab-04: 'SUN Feb 8'
+  lab-05: 'SUN Feb 15'
   lab-06: 'Optional'
 
 discussion-dates:
-  topic-00: 'WED Jan 12'
-  topic-01: 'MON Jan 18'
-  topic-02: 'MON Jan 25'
-  topic-03: 'MON Feb 1'
-  topic-04: 'MON Feb 8'
-  topic-05: 'MON Feb 15'
-  topic-06: 'MON Feb 22'
+  topic-00: 'MON Jan 12'
+  topic-01: 'SUN Jan 18'
+  topic-02: 'SUN Jan 25'
+  topic-03: 'SUN Feb 1'
+  topic-04: 'SUN Feb 8'
+  topic-05: 'SUN Feb 15'
+  topic-06: 'SUN Feb 22'
 
 final-project:
-  due-date: 'WED Feb 28'
+  due-date: 'SAT Feb 28'
 
 ---
 
