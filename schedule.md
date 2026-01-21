@@ -973,6 +973,10 @@ Click to access the lab templates. Modify and submit using the instructions.
 ## Submit Solutions to iCollege
 
 <a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
+<p><strong>Important:</strong><br>
+iCollege links require you to be logged in.<br>
+If you see “Not authorized,” please log into iCollege first, then navigate to the course and submit via <strong>Assignments / Assessments</strong>.
+</p>
 
 <br>
 <br>
@@ -1157,6 +1161,10 @@ Click to access the lab templates. Modify and submit using the instructions.
 ## Submit Solutions to iCollege
 
 <a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
+<p><strong>Important:</strong><br>
+iCollege links require you to be logged in.<br>
+If you see “Not authorized,” please log into iCollege first, then navigate to the course and submit via <strong>Assignments / Assessments</strong>.
+</p>
 
 <br>
 <br>
@@ -1350,6 +1358,10 @@ Click to access the lab templates. Modify and submit using the instructions.
 ## Submit Solutions to iCollege
 
 <a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
+<p><strong>Important:</strong><br>
+iCollege links require you to be logged in.<br>
+If you see “Not authorized,” please log into iCollege first, then navigate to the course and submit via <strong>Assignments / Assessments</strong>.
+</p>
 
 <br>
 <br>
@@ -1541,6 +1553,10 @@ Click to access the lab templates. Modify and submit using the instructions.
 ## Submit Solutions to iCollege
 
 <a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
+<p><strong>Important:</strong><br>
+iCollege links require you to be logged in.<br>
+If you see “Not authorized,” please log into iCollege first, then navigate to the course and submit via <strong>Assignments / Assessments</strong>.
+</p>
 
 <br>
 <br>
@@ -1706,6 +1722,10 @@ Click to access the lab templates. Modify and submit using the instructions.
 ## Submit Solutions to iCollege
 
 <a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
+<p><strong>Important:</strong><br>
+iCollege links require you to be logged in.<br>
+If you see “Not authorized,” please log into iCollege first, then navigate to the course and submit via <strong>Assignments / Assessments</strong>.
+</p>
 
 <br>
 <br>
