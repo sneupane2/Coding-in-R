@@ -755,7 +755,7 @@ Click to access the lab templates. Modify and submit using the instructions.
 <a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
 <p><strong>Important:</strong><br>
 This link points to iCollege and requires login.<br>
-If you see “Not authorized,” log into iCollege first, then access the submission through <strong>Assignments / Assessments</strong>.
+If you see “Not authorized,” log into iCollege first, then access the submission through <strong>Assessments/Assignments/Lab 1</strong>.
 </p>
 
 <br>
@@ -975,7 +975,7 @@ Click to access the lab templates. Modify and submit using the instructions.
 <a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
 <p><strong>Important:</strong><br>
 iCollege links require you to be logged in.<br>
-If you see “Not authorized,” please log into iCollege first, then navigate to the course and submit via <strong>Assignments / Assessments</strong>.
+If you see “Not authorized,” please log into iCollege first, then navigate to the course and submit via <strong>Assessments/Assignments/Lab 02</strong>.
 </p>
 
 <br>
@@ -1163,7 +1163,7 @@ Click to access the lab templates. Modify and submit using the instructions.
 <a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
 <p><strong>Important:</strong><br>
 iCollege links require you to be logged in.<br>
-If you see “Not authorized,” please log into iCollege first, then navigate to the course and submit via <strong>Assignments / Assessments</strong>.
+If you see “Not authorized,” please log into iCollege first, then navigate to the course and submit via <strong>Assessments/Assignments/Lab 03</strong>.
 </p>
 
 <br>
@@ -1360,7 +1360,7 @@ Click to access the lab templates. Modify and submit using the instructions.
 <a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
 <p><strong>Important:</strong><br>
 iCollege links require you to be logged in.<br>
-If you see “Not authorized,” please log into iCollege first, then navigate to the course and submit via <strong>Assignments / Assessments</strong>.
+If you see “Not authorized,” please log into iCollege first, then navigate to the course and submit via <strong>Assessments/Assignments/Lab 04</strong>.
 </p>
 
 <br>
@@ -1555,7 +1555,7 @@ Click to access the lab templates. Modify and submit using the instructions.
 <a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
 <p><strong>Important:</strong><br>
 iCollege links require you to be logged in.<br>
-If you see “Not authorized,” please log into iCollege first, then navigate to the course and submit via <strong>Assignments / Assessments</strong>.
+If you see “Not authorized,” please log into iCollege first, then navigate to the course and submit via <strong>Assessments/Assignments/Lab 05</strong>.
 </p>
 
 <br>
@@ -1724,7 +1724,7 @@ Click to access the lab templates. Modify and submit using the instructions.
 <a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
 <p><strong>Important:</strong><br>
 iCollege links require you to be logged in.<br>
-If you see “Not authorized,” please log into iCollege first, then navigate to the course and submit via <strong>Assignments / Assessments</strong>.
+If you see “Not authorized,” please log into iCollege first, then navigate to the course and submit via <strong>Assessments/Assignments/Lab 06</strong>.
 </p>
 
 <br>
