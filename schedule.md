@@ -753,6 +753,10 @@ Click to access the lab templates. Modify and submit using the instructions.
 ## Submit Solutions to iCollege
 
 <a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
+<p><strong>Important:</strong><br>
+This link points to iCollege and requires login.<br>
+If you see “Not authorized,” log into iCollege first, then access the submission through <strong>Assignments / Assessments</strong>.
+</p>
 
 <br>
 <br>
