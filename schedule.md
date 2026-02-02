@@ -1786,7 +1786,9 @@ The following link takes you to the Lab Templates page where you can downlaod th
 ## Submit to iCollege
 
 <a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">SUBMIT DASHBOARD</a>
-
+<p><strong>Important:</strong><br>
+This link points to iCollege and requires login.<br>
+If you see “Not authorized,” log into iCollege first, then access the submission through <strong>Assessments/Assignments/Final Dashboard Project</strong>.
 <br>
 <br>
 
