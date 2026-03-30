@@ -5,7 +5,7 @@ title: Schedule
 base: 'https://github.com/sneupane2/Coding-in-R/'
 
 canvas:
-  assignment_url: 'https://gastate.view.usg.edu/d2l/lms/dropbox/user/folders_list.d2l?ou=3635619'
+  assignment_url: 'https://gastate.view.usg.edu/d2l/lms/dropbox/admin/folders_manage.d2l?ou=3635619'
   yellowdig_url: 'https://gastate.view.usg.edu/d2l/le/3527355/discussions/List'
 
 lab-due-dates:
