@@ -11,9 +11,9 @@ canvas:
 lab-due-dates:
   lab-01: 'Jun 14'
   lab-02: 'Jun 21'
-  lab-03: 'Jul 5'
-  lab-04: 'Jul 12'
-  lab-05: 'Feb 15'
+  lab-03: 'Jun 28'
+  lab-04: 'Jul 5'
+  lab-05: 'Jul 12'
   lab-06: 'Optional'
 
 discussion-dates:
