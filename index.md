@@ -12,7 +12,7 @@ info:
  course_number: Econ 8730 / PMAP 8541 / CRJU 8900
  course_level: Graduate
  course_website: "https://gastate.view.usg.edu/d2l/home/2989895"
- course_start_end_dates: January 12 - February 28, 2026
+ course_start_end_dates: June 6, 2026 - August 03, 2026
  course_prerequisites:  
  class_meets_when:  Online Asynchronously
  class_meets_where: Online Asynchronously
