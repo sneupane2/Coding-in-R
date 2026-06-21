@@ -706,13 +706,12 @@ So ignoring potential problems with big and open data for now, read about two in
 "[A Data Analyst's Blog](https://www.npr.org/sections/alltechconsidered/2014/11/28/367046864/a-data-analysts-blog-is-transforming-how-new-yorkers-see-their-city
 ) Is Transforming How New Yorkers See Their City", NPR, Nov 2018.
 
-[How a blog saved OK Cupid](https://fivethirtyeight.com/features/christian-rudder-dataclysm-okcupid/), FiveThirtyEight Blog, Nov 2014.
 
 <br>
 
 **ASSIGNMENT:**
 
-> For your discussion topic this week, find one data-driven blog post from Ben Wellington's [I Quant NY](http://iquantny.tumblr.com/) and/or OK Cupid's [OK Trends](https://theblog.okcupid.com/tagged/data) where you discovered something cool that you did not know, and share it with the group. In your post highlight what is interesting about the example, and what data made it possible.
+> For your discussion topic this week, find one data-driven blog post from Ben Wellington's [I Quant NY](http://iquantny.tumblr.com/) or another reputable data-driven blog, article, or visualization that reveals an interesting insight about cities, public policy, human behavior, or society. Explain what you found interesting and what data made the analysis possible&nbsp;In your post highlight what is interesting about the example, and what data made it possible.
 
 **Please post your reflection as a new thread on iCollege.**
 
