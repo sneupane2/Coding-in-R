@@ -1691,9 +1691,11 @@ plot( traffic, col="steelblue" )
 
 ![](assets/img/dc-traffic.png)
 
-For this week, read about how [GitHub has evolved to support government](https://readwrite.com/2014/08/14/github-government-ben-balter-open-source/).
+Further Exploration
 
-Do you think open source frameworks would help open the black box and make government more accessible? Would government become more accessible, or alienate regular citizens that are not computer scientists? Would it make influence from special interests more transparent, or would it make it easier for them to hijack the process of shaping local laws?
+GitHub and other open-source frameworks provide an interesting example of how principles of collaboration, transparency, and shared development can extend beyond traditional software development. The examples above illustrate how open data and open-source tools can make government data easier to access, reuse, and analyze.
+
+As you explore these examples, consider how open-source frameworks might influence government transparency and accessibility.
 
 <a class="uk-button uk-button-primary" href="{{page.canvas.yellowdig_url}}">iCollege</a>
 
