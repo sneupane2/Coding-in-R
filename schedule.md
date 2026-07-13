@@ -23,7 +23,7 @@ discussion-dates:
   topic-03: 'Jun 28'
   topic-04: 'Jul 5'
   topic-05: 'Jul 12'
-  topic-06: 'Jul 19'
+  topic-06: 'Optional'
 
 final-project:
   due-date: 'Jul 28'
@@ -1691,7 +1691,7 @@ plot( traffic, col="steelblue" )
 
 ![](assets/img/dc-traffic.png)
 
-Further Exploration
+**Further Exploration**
 
 GitHub and other open-source frameworks provide an interesting example of how principles of collaboration, transparency, and shared development can extend beyond traditional software development. The examples above illustrate how open data and open-source tools can make government data easier to access, reuse, and analyze.
 
